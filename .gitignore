@@ -1,5 +1,9 @@
 geckodriver.log
 config.py
-.ipynb_checkpoints
+test.py
+main.py
+mail.py
+.ipynb_checkpoints*
 __pycache__
 *.pyc
+.classpath
